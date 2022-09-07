@@ -9,7 +9,7 @@
 # `Project Brief`
 
 > Link to download the application:
-https://drive.google.com/drive/u/0/folders/1L_Vzr4u1HqaOJ7klVKaKfaSS2T9AkSH_
+https://bit.ly/3BkPyfv
 
 **Requirements to run the application**
 - Google Chrome Browser
