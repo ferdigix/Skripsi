@@ -6,7 +6,7 @@
 2. Rizky Fajar Nur Pratama - 2201768941 
 3. Ferdinand Leonardi – 2201737671 
 
-# 'Project Brief'
+# `Project Brief`
 
 > Link to download the application:
 https://drive.google.com/drive/u/0/folders/1L_Vzr4u1HqaOJ7klVKaKfaSS2T9AkSH_
